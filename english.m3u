@@ -1,7 +1,7 @@
 --- EPG
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
---- United Kingdom
+--- UK Channels
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-id="BBC.One.Lon.HD.uk",UK | BBC One
 http://92.114.85.72:8000/play/a0mw
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-id="BBC.Two.HD.uk",UK | BBC Two
@@ -113,7 +113,7 @@ http://92.114.85.72:8000/play/a0n5
 #EXTINF:-1 group-title="United Kingdom" tvg-id="Film4.HD.uk",UK | Film4
 http://92.114.85.72:8000/play/a07g
 
---- United States
+--- US Channels
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" tvg-id="AdultSwim.com.Cartoon.Network.us",US | Cartoon Network/Adult Swim
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Boomerang.us",US | Boomerang
@@ -512,20 +512,6 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000040
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
-
---- 📺 US Channels
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
-https://a1xs.vip/300003
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="US Channels",TNT FHD
-https://a1xs.vip/300001
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="US Channels",truTV FHD
-https://a1xs.vip/300002
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central FHD" tvg-logo="https://pixvid.org/images/2025/02/08/comedy-central.png" group-title="US Channels",Comedy Central FHD
-https://a1xs.vip/300004
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy FHD" tvg-logo="https://pixvid.org/images/2025/02/08/hbo-comedy.png" group-title="US Channels",HBO Comedy FHD
-https://a1xs.vip/300005
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="US Channels",USA Network FHD
-https://a1xs.vip/1100020
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
