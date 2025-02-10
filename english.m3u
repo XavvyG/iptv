@@ -1,138 +1,7 @@
+--- EPG
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png" tvg-id="ABCMelbourne.au",AU | ABC
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png" tvg-id="ABCEntertainsMelbourne.au",AU | ABC Entertains
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-family-au.png" tvg-id="ABCFamilyMelbourne.au",AU | ABC Family
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png" tvg-id="ABCNewsMelbourne.au",AU | ABC News
-https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" tvg-id="Canal.Cartoon.Network.(Argentina).ar",AU | Network 10
-http://tvhe.neez.id.au/stream/channelid/1703206964?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-peach-comedy-au.png" tvg-id="10PeachMelbourne.au",AU | 10 Peach Comedy
-http://tvhe.neez.id.au/stream/channelid/126080995?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-bold-drama-au.png" tvg-id="10BoldMelbourne.au",AU | 10 Bold Drama
-http://tvhe.neez.id.au/stream/channelid/177421981?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png" tvg-id="NickelodeonMelbourne.au",AU | Nickelodeon
-http://tvhe.neez.id.au/stream/channelid/1564037361?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png",AU | Nine
-http://tvhe.neez.id.au/stream/channelid/881330051?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png" tvg-id="9Melbourne.au",AU | 9Go!
-http://tvhe.neez.id.au/stream/channelid/1440783481?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png" tvg-id="9LifeMelbourne.au",AU | 9Life
-http://tvhe.neez.id.au/stream/channelid/1206278726?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png" tvg-id="9RushMelbourne.au",AU | 9Rush
-http://tvhe.neez.id.au/stream/channelid/1415085761?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png" tvg-id="9GemMelbourne.au",AU | 9Gem
-http://tvhe.neez.id.au/stream/channelid/758254891?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png" tvg-id="7Melbourne.au",AU | 7
-http://tvhe.neez.id.au/stream/channelid/1539335094?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png" tvg-id="7TWOMelbourne.au",AU | 7Two
-http://tvhe.neez.id.au/stream/channelid/294715339?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png" tvg-id="7mateMelbourne.au",AU | 7Mate
-http://tvhe.neez.id.au/stream/channelid/750052291?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png" tvg-id="7flixMelbourne.au",AU | 7Flix
-http://tvhe.neez.id.au/stream/channelid/630621048?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png" tvg-id="7Bravo.au",AU | 7Bravo
-http://tvhe.neez.id.au/stream/channelid/1013117216?profile=pass
-#EXTINF:-1 group-title="Australia" tvg-id="Whakaata.MÄori.nz",AU | Whakaata Māori
-https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="Te.Reo.nz",AU | Te Reo
-https://dfecjp0pnemzw.cloudfront.net/out/v1/17ebe8fca7604907ae99719663dd2519/index_2.m3u8
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/usa-network-ca.png" tvg-id="USA.Network.(CAN).ca",CA | USA Network
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH16WEj-pNogM4n77_HFk5068/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" tvg-id="Disney.Channel.Canada.On.Demand.ca",CA | Disney Channel
-http://68.233.120.207:9981/stream/channelid/254927833?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-id="CTV.(CFTO).Toronto,.ON.ca",CA | CTV
-http://206.212.244.26/live/vasconeves/1742766045/40733.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-id="CTV.2.id",CA | CTV 2
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH14TJ-Aj78CYpcikPZdJJAW4/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png" tvg-id="CTV.Life.HD.ca",CA | CTV Life
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH19uTcr2Y-X4A7bbeZB5Wjak/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png" tvg-id="CTV.Drama.HD.ca",CA | CTV Drama
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH15bTUPh2Lx6ZyGCld4t96ww/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png" tvg-id="CTV.Comedy.-.East.HD.ca",CA | CTV Comedy
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1_aTcJMWlB-7ds8T9HT-3yg/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png" tvg-id="CTV.Sci-Fi.HD.ca",CA | CTV Sci Fi
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH15M3X9mbGVsMjJqIuYq82C4/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" tvg-id="CTV.Wild.ca",CA | CTV Wild
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH11F1V_Yu-jCmobyP-1B9TqI/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" tvg-id="CTV.Nature.ca",CA | CTV Nature
-http://206.212.244.26/live/vasconeves/1742766045/40726.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" tvg-id="CTV.Speed.ca",CA | CTV Speed
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH19TuRj-MUW5RXNmUqPzo-Zs/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-id="Global.BC.HD.ca",CA | Global
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1_7jN6DnGfn9kuZlTrd0K7E/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/showcase-ca.png" tvg-id="Showcase.Canada.HD.ca",CA | Showcase
-http://206.212.244.26/live/vasconeves/1742766045/40624.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-id="W.(WTN).-.East.HD.ca",CA | W Network
-http://206.212.244.26/live/vasconeves/1742766045/40670.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" tvg-id="Slice.HD.ca",CA | Slice
-http://206.212.244.26/live/vasconeves/1742766045/40622.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" tvg-id="History.Canada.HD.East.ca",CA | History
-http://206.212.244.26/live/vasconeves/1742766045/40693.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Lifetime.TV.-.Canada.ca",CA | Lifetime
-http://206.212.244.26/live/vasconeves/1742766045/40684.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png" tvg-id="ICI.(CBLFT).Toronto.HD.ca",CA | ICI Tele
-http://68.233.120.207:9981/stream/channelid/1049375066?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-id="Home.Network.ca",CA | Home Network
-http://206.212.244.26/live/vasconeves/1742766045/40695.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-la-chaine-ca.png" tvg-id="La.Chaine.Disney.ca",CA | La Chaine Disney
-http://206.212.244.26/live/vasconeves/1742766045/40724.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Flavour.Network.Canada.ca",CA | Flavour Network
-http://206.212.244.26/live/vasconeves/1742766045/40710.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ytv-ca.png" tvg-id="YTV.(Youth.Television).-.East.HD.ca",CA | YTV
-http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" tvg-id="Treehouse.HD.ca",CA | Treehouse
-http://96.45.207.18:8881/channel/n12d872f0/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png" tvg-id="Cartoon.Network.Canada.-.East.HD.ca",CA | Cartoon Network
-http://96.45.207.18:8881/channel/n7b0af04a/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png" tvg-id="Boomerang.Canada.ca",CA | Boomerang
-http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-xd-ca.png" tvg-id="Disney.XD.Canada.ca",CA | Disney XD
-http://96.45.207.18:8881/channel/na3e18fa/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-id="Disney.Junior.Canada.ca",CA | Disney Jr.
-http://96.45.207.18:8881/channel/n3032cc1d/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/much-ca.png" tvg-id="Much.Music.HD.ca",CA | Much
-http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" tvg-id="TSN1.ca",CA | TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png" tvg-id="ABC.Spark.HD.ca",CA | ABC Spark
-http://96.45.207.18:8881/channel/nb9f1fb3/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" tvg-id="Family.Channel.Canada.-.East.HD.ca",CA | Family Channel
-http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tfo-ca.png" tvg-id="TFO.-.Chaine.Francaise.HD.ca",CA (FR) | TFO
-http://96.45.207.18:8881/channel/n5de8418/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ici-rdi-ca.png" tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca",CA (FR) | ICI RDI
-http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png" tvg-id="TVA.HD.ca",CA (FR) | TVA
-http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png" tvg-id="APTN.HD.ca",CA | APTN
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1zjfcdko3B89hUkGbAF57FE/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tvo-ca.png" tvg-id="TVO.(TV.Ontario).HD.ca",CA | TVO
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1yoUALvo4DCqexaIHlrpSco/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-id="CITY.Toronto,.ON.HD.ca",CA | Citytv
-http://206.212.244.26/live/vasconeves/1742766045/40598.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png" tvg-id="Knowledge.Network.ca",CA | Knowledge Network
-http://206.212.244.26/live/vasconeves/1742766045/40687.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Bravo.ca",CA | Bravo
-http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH17qDU1cf8SJjXNCK9d8vPvM/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/travel-and-escape-ca.png" tvg-id="plex.tv.Travel.Escapes.plex",CA | Travel Escape
-http://206.212.244.26/live/vasconeves/1742766045/40580.ts
-#EXTINF:-1 group-title="Ireland" tvg-id="RTE.One.HD.ie",IE | RTÉ1
-http://154.58.225.25:9999/rte1/index.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="RTE.Two.HD.ie",IE | RTÉ2
-http://154.58.225.25:9999/rte2/index.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="Cula4.HD.ie",IE | Cúla4
-https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="Virgin.Media.One.HD.ie",IE | Virgin Media 1
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="Virgin.Media.Two.HD.ie",IE | Virgin Media 2
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="Virgin.Media.Three.HD.ie",IE | Virgin Media 3
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
-#EXTINF:-1 group-title="Ireland" tvg-id="Virgin.Media.Four.HD.ie",IE | Virgin Media 4
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+
+--- United Kingdom
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-id="BBC.One.Lon.HD.uk",UK | BBC One
 http://92.114.85.72:8000/play/a0mw
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-id="BBC.Two.HD.uk",UK | BBC Two
@@ -243,6 +112,8 @@ http://92.114.85.72:8000/play/a0n4
 http://92.114.85.72:8000/play/a0n5
 #EXTINF:-1 group-title="United Kingdom" tvg-id="Film4.HD.uk",UK | Film4
 http://92.114.85.72:8000/play/a07g
+
+--- United States
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" tvg-id="AdultSwim.com.Cartoon.Network.us",US | Cartoon Network/Adult Swim
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Boomerang.us",US | Boomerang
@@ -511,3 +382,231 @@ https://a1xs.vip/40000032
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="United States" tvg-id="NHL.Network.USA.Alternate.us",US | NHL Network
 https://a1xs.vip/40000034
+
+--- ⚽️ EPL
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.TV.hk" tvg-name="Now Sports PL TV FHD" tvg-logo="https://pixvid.org/images/2025/01/22/NowHKPLTV.png" group-title="EPL",Now Sports PL TV FHD
+https://a1xs.vip/1100000
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="EPL",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="EPL",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="EPL",Astro Premier League
+https://a1xs.vip/1100030
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Peacock Premier League TV" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="EPL",Peacock Premier League TV
+https://a1xs.vip/1100021
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
+https://a1xs.vip/1100020
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="EPL",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="EPL",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+
+--- 📺 UK Sports
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://pixvid.org/images/2025/01/16/SKyF1UHD.png" group-title="UK Sports",Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT Sports Ultimate UHD" tvg-logo="https://pixvid.org/images/2025/01/31/TNTSprtsU.png" group-title="UK Sports",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK Sports",Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK Sports",Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK Sports",Sky Sports F1 FHD
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK Sports",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK Sports",Sky Sports Mix FHD
+https://a1xs.vip/2000008
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK Sports",Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="UK Sports",Sky Sports Racing FHD
+https://a1xs.vip/2000010
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK Sports",Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Skysportsplus.png" group-title="UK Sports",Sky Sports+ FHD
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://pixvid.org/images/2025/01/31/SkySprtsTennis.png" group-title="UK Sports",Sky Sports Tennis FHD
+https://a1xs.vip/2000013
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="UK Sports",TNT Sports 1 FHD
+https://a1xs.vip/2000021
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="UK Sports",TNT Sports 2 FHD
+https://a1xs.vip/2000022
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="UK Sports",TNT Sports 3 FHD
+https://a1xs.vip/2000023
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="UK Sports",TNT Sports 4 FHD
+https://a1xs.vip/2000024
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 - UK" tvg-logo="https://i.ibb.co/4YhGQBJ/eurosport-1.png" group-title="UK Sports",Eurosport 1
+https://a1xs.vip/2000040
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 - UK" tvg-logo="https://i.ibb.co/gr5m3Rk/eurosport-2.png" group-title="UK Sports",Eurosport 2
+https://a1xs.vip/2000041
+
+--- 📺 US Sports
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN UHD
+https://a1xs.vip/4000080
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG FHD
+https://a1xs.vip/4000001
+#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="MSG_PLUS" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="US Sports",MSG_PLUS FHD
+https://a1xs.vip/4000002
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN FHD
+https://a1xs.vip/4000004
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SportsNet NY FHD" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
+https://a1xs.vip/40000045
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="US Sports",CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="US Sports",CBS Sports Golazo Network
+https://a1xs.vip/4000009
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="US Sports",CBS Sports HQ FHD
+https://a1xs.vip/4000007
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="US Sports",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="US Sports",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="US Sports",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN News HD" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="US Sports",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC ESPN Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="US Sports",SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACC Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="US Sports",ACC Network HD
+https://a1xs.vip/40000016
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FS1 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="US Sports",FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="US Sports",FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://pixvid.org/images/2025/01/25/mlb-nw.png" group-title="US Sports",MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://pixvid.org/images/2025/01/25/nba-tv.png" group-title="US Sports",NBA TV
+https://a1xs.vip/40000031
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="US Sports",NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="US Sports",NFL RedZone
+https://a1xs.vip/40000033
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="US Sports",NHL Network
+https://a1xs.vip/40000034
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-name="Marquee Sports Network" tvg-logo="https://pixvid.org/images/2025/02/06/marquee-sn.png" group-title="US Sports",Marquee Sports Network 
+https://a1xs.vip/4000010
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="US Sports",FanDuel TV
+https://a1xs.vip/40000046
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel Sports Florida" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="US Sports",FanDuel Sports Florida
+https://a1xs.vip/4000050
+#EXTINF:-1 tvg-id="plex.tv.Willow.Sports.plex" tvg-name="Willow Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/04/Willowsport1.png" group-title="US Sports",Willow Sports FHD
+https://a1xs.vip/40000044
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="Willow Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="US Sports",Willow Cricket FHD
+https://a1xs.vip/40000042
+#EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-name="Willow Cricket Xtra FHD" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="US Sports",Willow Cricket Xtra
+https://a1xs.vip/40000043
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel FHD
+https://a1xs.vip/40000040
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
+https://a1xs.vip/40000041
+
+--- 📺 US Channels
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
+https://a1xs.vip/300003
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="US Channels",TNT FHD
+https://a1xs.vip/300001
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="US Channels",truTV FHD
+https://a1xs.vip/300002
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central FHD" tvg-logo="https://pixvid.org/images/2025/02/08/comedy-central.png" group-title="US Channels",Comedy Central FHD
+https://a1xs.vip/300004
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy FHD" tvg-logo="https://pixvid.org/images/2025/02/08/hbo-comedy.png" group-title="US Channels",HBO Comedy FHD
+https://a1xs.vip/300005
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="US Channels",USA Network FHD
+https://a1xs.vip/1100020
+
+--- 📺 CA Sports
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="CA Sports",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="CA Sports",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
+https://a1xs.vip/6000005
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="CA Sports",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="CA Sports",Sportsnet World FHD
+https://a1xs.vip/6000013
+
+--- 📺 AU Sports
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="AU Sports",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Fox502HD.png" group-title="AU Sports",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://pixvid.org/images/2025/01/27/Fox_503.png" group-title="AU Sports",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://pixvid.org/images/2025/01/31/FoxFooty504.png" group-title="AU Sports",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Fox_505.png" group-title="AU Sports",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Fox_506.png" group-title="AU Sports",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Fox507.png" group-title="AU Sports",Fox Sports 507 FHD
+https://a1xs.vip/700007
+
+--- 📺 NZ Sports
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ1.png" group-title="NZ Sports",SKY Sport 1 NZ
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ2.png" group-title="NZ Sports",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ3.png" group-title="NZ Sports",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ4.png" group-title="NZ Sports",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ5.png" group-title="NZ Sports",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ6.png" group-title="NZ Sports",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ7.png" group-title="NZ Sports",SKY Sport 7 NZ
+https://a1xs.vip/700037
+
+--- 📺 World Sports
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="World Sports",Premier Sports 1 FHD
+https://a1xs.vip/8000021
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="World Sports",Premier Sports 2 FHD
+https://a1xs.vip/8000022
+#EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport PL FHD" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="World Sports",SuperSport PL FHD
+https://a1xs.vip/8000001
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="SuperSport Football FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="World Sports",SuperSport Football FHD
+https://a1xs.vip/8000004
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport Laliga FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSLlg.png" group-title="World Sports",SuperSport Laliga FHD
+https://a1xs.vip/8000005
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL FHD" tvg-logo="https://devcdn.24.co.za/files/supersport/202.png" group-title="World Sports",SuperSport PSL FHD
+https://a1xs.vip/8000006
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis FHD" tvg-logo="https://pixvid.org/images/2025/01/23/supersport-tennis.png" group-title="World Sports",SuperSport Tennis FHD
+https://a1xs.vip/8000007
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand FHD" tvg-logo="https://pixvid.org/images/2025/01/22/SSgrandstand.png" group-title="World Sports",SuperSport Grandstand FHD
+https://a1xs.vip/8000002
+#EXTINF:-1 tvg-id="BLITZ.za" tvg-name="SuperSport Blitz FHD" tvg-logo="https://pixvid.org/images/2025/02/02/SSblizt.png" group-title="World Sports",SuperSport Blitz FHD
+https://a1xs.vip/8000003
+#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport Maximo 1 FHD" tvg-logo="https://pixvid.org/images/2025/02/02/241.png" group-title="World Sports",SuperSport Maximo 1 FHD
+https://a1xs.vip/8000008
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action FHD" tvg-logo="https://pixvid.org/images/2025/02/02/SSAction.png" group-title="World Sports",SuperSport Action FHD
+https://a1xs.vip/8000009
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf HD" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="World Sports",SuperSport Golf HD
+https://a1xs.vip/8000010
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/05/SScricket.png" group-title="World Sports",Supersport Cricket FHD
+https://a1xs.vip/8000013
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SSrugby.png" group-title="World Sports",SuperSport Rugby FHD 
+https://a1xs.vip/8000014
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SPS1.png" group-title="World Sports", Star Sports Select 1 FHD
+https://a1xs.vip/8000011
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SPS2.png" group-title="World Sports", Star Sports Select 2 FHD
+https://a1xs.vip/8000012
